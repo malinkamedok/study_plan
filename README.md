@@ -34,7 +34,9 @@
 
 [ ] Stepik - Основы программирования для Linux
 
-[ ] Павел Маврин - Алгоритмы и Структуры Данных
+[ ] Павел Маврин - [Алгоритмы и Структуры Данных](https://www.youtube.com/watch?v=8BniwdaAUMc&list=PLrS21S1jm43jz48qjdfYNpuIPgL3lNJ_o&ab_channel=PavelMavrin)
+
+[ ] Сергей Клименков - [Операционные системы](https://www.youtube.com/playlist?list=PLBWafxh1dFuyGGcWXmR_EngRkoUWvDFJi)
 
 ## Инструменты
 
@@ -51,3 +53,5 @@
 ## Собеседование
 
 [ ] [Yadro Go Junior](/interview_questions/yadro_go_junior.md)
+
+[ ] [Biocad Go Intern](/interview_questions/biocad_go_intern.md)

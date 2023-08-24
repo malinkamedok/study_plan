@@ -40,6 +40,8 @@
 
 - [ ] Сергей Клименков - [Операционные системы](https://www.youtube.com/playlist?list=PLBWafxh1dFuyGGcWXmR_EngRkoUWvDFJi)
 
+- [ ] Ozon - Go Course
+
 ## Инструменты
 
 - [ ] - Docker

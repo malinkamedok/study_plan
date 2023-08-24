@@ -6,13 +6,13 @@
 
 ### База
 
-[x] Роберт Мартин - Чистый код
+- [x] Роберт Мартин - Чистый код
 
-[x] Роберт Мартин - Чистая архитектура
+- [x] Роберт Мартин - Чистая архитектура
 
-[ ] Лакман Макдауэлл - Карьера Программиста
+- [ ] Лакман Макдауэлл - Карьера Программиста
 
-[ ] Таненбаум Эндрю - Современные операционные системы
+- [ ] Таненбаум Эндрю - Современные операционные системы
 * Процессы и потоки
 * Управление памятью
 * Файловые системы
@@ -20,38 +20,38 @@
 
 ### Узконаправленные
 
-[ ] Алан Донован, Брайан Керниган - Язык программирования Go
+- [ ] Алан Донован, Брайан Керниган - Язык программирования Go
 
-[ ] Скотт Граннеман - Linux Карманный справочник
+- [ ] Скотт Граннеман - Linux Карманный справочник
 
-[ ] Джонотан Генник - SQL Карманный справочник
+- [ ] Джонотан Генник - SQL Карманный справочник
 
 ## Курсы
 
-[x] Stepik - Программирование на Golang
+- [x] Stepik - Программирование на Golang
 
-[x] Stepik - Основы Linux
+- [x] Stepik - Основы Linux
 
-[ ] Stepik - Основы программирования для Linux
+- [ ] Stepik - Основы программирования для Linux
 
-[ ] Павел Маврин - [Алгоритмы и Структуры Данных](https://www.youtube.com/watch?v=8BniwdaAUMc&list=PLrS21S1jm43jz48qjdfYNpuIPgL3lNJ_o&ab_channel=PavelMavrin)
+- [ ] Павел Маврин - [Алгоритмы и Структуры Данных](https://www.youtube.com/watch?v=8BniwdaAUMc&list=PLrS21S1jm43jz48qjdfYNpuIPgL3lNJ_o&ab_channel=PavelMavrin)
 
-[ ] Сергей Клименков - [Операционные системы](https://www.youtube.com/playlist?list=PLBWafxh1dFuyGGcWXmR_EngRkoUWvDFJi)
+- [ ] Сергей Клименков - [Операционные системы](https://www.youtube.com/playlist?list=PLBWafxh1dFuyGGcWXmR_EngRkoUWvDFJi)
 
 ## Инструменты
 
-[ ] - Docker
+- [ ] - Docker
 
-[ ] - Docker-compose
+- [ ] - Docker-compose
 
-[x] - Swagger (OpenApi)
+- [x] - Swagger (OpenApi)
 
-[x] - Postman
+- [x] - Postman
 
-[ ] - Make
+- [ ] - Make
 
 ## Собеседование
 
-[ ] [Yadro Go Junior](/interview_questions/yadro_go_junior.md)
+- [ ] [Yadro Go Junior](/interview_questions/yadro_go_junior.md)
 
-[ ] [Biocad Go Intern](/interview_questions/biocad_go_intern.md)
+- [ ] [Biocad Go Intern](/interview_questions/biocad_go_intern.md)

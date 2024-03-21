@@ -59,3 +59,5 @@
 - [ ] [Yadro Go Junior](/interview_questions/yadro_go_junior.md)
 
 - [ ] [Biocad Go Intern](/interview_questions/biocad_go_intern.md)
+
+- [x] [Yadro DevOps Course](/interview_questions/yadro_devops_course.md)
